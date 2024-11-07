@@ -34,3 +34,8 @@ Before you begin, ensure that you have the following installed:
    ```bash
    git clone https://github.com/your-username/recipe-finder.git
    cd recipe-finder
+2. Run:
+
+   ```bash
+   npm install
+   npm run dev
